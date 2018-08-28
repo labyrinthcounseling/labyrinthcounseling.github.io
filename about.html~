@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="ryan dunphy" >
-
+<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
     <title>About My Practice - Labyrinth Counseling Services</title>
 
     <!-- Bootstrap core CSS -->
@@ -32,16 +32,16 @@ background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, F
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto" style=font-size:16px;>
             <li class="nav-item">
-              <a class="nav-link" href="about.html" style=font-size:13px;>About My Practice</a>
+              <a class="nav-link" href="/about" style=font-size:13px;>About My Practice</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="services.html" style=font-size:13px;>Is This For You?</a>
+              <a class="nav-link" href="/services" style=font-size:13px;>Is This For You?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html" style=font-size:13px;>Book an Appointment</a>
+              <a class="nav-link" href="/contact" style=font-size:13px;>Book an Appointment</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="qualifications.html" style=font-size:13px;>Professional Qualifications</a>
+              <a class="nav-link" href="/qualifications" style=font-size:13px;>Professional Qualifications</a>
             </li>
                </ul>
         </div>
@@ -169,10 +169,10 @@ Fairhope, AL 36532</p>
                                 <div class="col-md-6">
 
                                     <ul style=list-style:none;>
-                                        <li><a style=color:white; href="about.html">About My Practice</a></li>
-                                        <li><a style=color:white; href="services.html">Is This For You?</a></li>
-                                        <li><a style=color:white; href="contact.html">Book an Appointment</a></li>
-                                        <li><a style=color:white; href="qualifications.html">Professional Qualifications</a></li>
+                                        <li><a style=color:white; href="/about">About My Practice</a></li>
+                                        <li><a style=color:white; href="/services">Is This For You?</a></li>
+                                        <li><a style=color:white; href="/contact">Book an Appointment</a></li>
+                                        <li><a style=color:white; href="/qualifications">Professional Qualifications</a></li>
                                     </ul>
                                 </div>
                                 <!--/.Second column-->

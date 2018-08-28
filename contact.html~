@@ -26,7 +26,7 @@ background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-2
 background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 ">
       <div class="container">
-        <a class="navbar-brand" href="index.html"><img style=float:left; src="labyrinth.png" height=150 width=150><h1 style=font-size:20px;margin-top:55px;>Labyrinth<h1><h2 style=font-size:14px;>Counseling Services</h2></a>
+        <a class="navbar-brand" href="/"><img style=float:left; src="labyrinth.png" height=150 width=150><h1 style=font-size:20px;margin-top:55px;>Labyrinth<h1><h2 style=font-size:14px;>Counseling Services</h2></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -60,7 +60,7 @@ background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, F
         <div class="col-lg-4 mb-4">
          Use the contact form for distance counseling through Skype.<br><br>
 
-For in person counseling call Professional Counseling Associates. 2900 Highway 98, Daphne Alabama Suite 102A. 36526
+For in person counseling call Professional Counseling Associates.<br> 29000 Highway 98<br Daphne, Alabama Suite 102A Building A. 36526
           </p>
           <p>
             <abbr title="Phone">P</abbr>: 251-626-5797

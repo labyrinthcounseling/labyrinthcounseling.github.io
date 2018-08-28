@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="ryan dunphy" >
+
+    <title>About My Practice - Labyrinth Counseling Services</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+       <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top" style="background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+">
+      <div class="container">
+        <a class="navbar-brand" href="index.html"><img style=float:left; src="labyrinth.png" height=150 width=150><h1 style=font-size:20px;margin-top:55px;>Labyrinth<h1><h2 style=font-size:14px;>Counseling Services</h2></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto" style=font-size:16px;>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html" style=font-size:13px;>About My Practice</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="services.html" style=font-size:13px;>Is This For You?</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html" style=font-size:13px;>Book an Appointment</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="qualifications.html" style=font-size:13px;>Professional Qualifications</a>
+            </li>
+               </ul>
+        </div>
+      </div>
+    </nav>
+
+
+        
+
+    <!-- Page Content -->
+    <div class="container">
+
+      
+      <!-- Intro Content -->
+      <div class="row" style=margin-top:150px;>
+        <div class="col-lg-6">
+          <img class="img-fluid rounded mb-4" src="deborah-1.jpg" alt="">
+          <h2>Therapy Methods</h2>
+Armed with the information I glean from the assessment tools, I will devise a treatment plan suited for your unique needs. This plan may include any of the following:
+
+          <ul>
+<li>Reading and written assignments
+<li>Individual and/or group therapy
+<li>Experiential trauma resolution exercises
+<li>Journaling
+<li>Art therapy
+<li>Couple’s and family counseling
+<li>12-step program involvement
+<li>Core Dialog Query
+<li>Ego State Exercises
+<li>Phone therapy
+</ul>
+        </div>
+        <div class="col-lg-6">
+          <h2>Deborah Schiller</h2>
+         <p>LPC, CSAT-S, CMAT-S</p>
+Professional Qualifications
+
+Education:
+
+<ul style=margin-bottom:100px;>
+<li>Master of Science in Early Childhood Education degree from <a href="https://stanford.edu/">Stanford University</a> and over two decades working with young children and their parents.
+<li>Master of Science in Counseling degree from the <a href=http://www.southalabama.edu/>University of South Alabama</a>.
+<li>Internship at <a href="http://themeadows.org/">The Meadows</a> working under <a href="http://sexhelp.com/">Dr. Patrick Carnes</a> and <a href="http://www.piamellody.com/">Pia Melody</a> in sexual addiction, sexual anorexia, and co-dependancy
+<li>Post-graduate work at the <a href="http://www.usm.edu/">University of Southern Mississippi</a> in Child and Family Studies.
+<li>Bachelors of Science in Education from Monte Vello
+<li>Clinical Therapist and Adminstrator
+<li><a href="http://themeadows.org/">The Meadows</a>: personality, sexual disorders, and addiction interaction.
+<li>The Professional Enhancement Program at <a href="http://www.pinegrovetreatment.com/">Pine Grove Behavioral</a>: disruptive professionals, addiction interaction, and personality and sexual disorders.
+<li >Clinical and Program Director at <a href="http://www.pinegrovetreatment.com/">Gratitude (formerly Gentle Path) at Pine Grove Behavioral Health and Addiction Services</a> working with Dr. Patrick Carnes: sexual addiction, sexual anorexia, co-sex addiction, and addiction interaction.
+</ul>
+
+        </div>
+      </div>
+      <!-- /.row -->
+
+  <!-- Contact Form -->
+      <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
+      <div class="row">
+        <div class="col-lg-8 mb-4">
+          <h3>Send me a Message</h3>
+          <form action="https://formspree.io/labyrinthcounseling@gmail.com"
+      method="POST">
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Full Name:</label>
+                <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                <p class="help-block"></p>
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Phone Number:</label>
+                <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Email Address:</label>
+                <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Message:</label>
+                <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+              </div>
+            </div>
+            <div id="success"></div>
+            <!-- For success/fail messages -->
+            <button type="submit" class="btn btn-primary" id="sendMessageButton">Send Message</button>
+          </form>
+        </div>
+    </div>
+    </div>
+    <!-- /.container -->
+
+     <!-- Footer -->
+                 <!-- Grid row -->
+            <div class="row" style="padding:20px;background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */">
+            
+                <!-- Grid column -->
+                <div class="col-md-12 mb-4">
+            
+                    <!--Footer-->
+                    <footer class="page-footer blue text-center text-md-left mt-0" >
+
+                        <!--Footer Links-->
+                        <div class="container-fluid">
+                            <div class="row">
+
+                                <!--First column-->
+                                <div class="col-md-6">
+
+                                    <p style=color:white;>In Person: 251-626-5797<br>For distance Skype Counseling:251-752-0771<br>Skype ID: deborahdaleshiller
+<br><br>
+Labyrinth Counseling Services
+Fairhope, AL 36532</p>
+                                </div>
+                                <!--/.First column-->
+
+                                <!--Second column-->
+                                <div class="col-md-6">
+
+                                    <ul style=list-style:none;>
+                                        <li><a style=color:white; href="about.html">About My Practice</a></li>
+                                        <li><a style=color:white; href="services.html">Is This For You?</a></li>
+                                        <li><a style=color:white; href="contact.html">Book an Appointment</a></li>
+                                        <li><a style=color:white; href="qualifications.html">Professional Qualifications</a></li>
+                                    </ul>
+                                </div>
+                                <!--/.Second column-->
+                            </div>
+                        </div>
+                        <!--/.Footer Links-->
+
+                        <!--Copyright-->
+                        <div class="footer-copyright">
+                            <div class="container-fluid" style=color:white;>
+                                © 2018 Labyrinth Counseling Services</a>
+
+                            </div>
+                        </div>
+                        <!--/.Copyright-->
+
+                    </footer>
+                    <!--/.Footer-->
+            
+                </div>
+                <!-- Grid column -->
+            
+            </div>
+            <!-- Grid row -->
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>

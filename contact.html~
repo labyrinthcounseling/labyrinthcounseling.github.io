@@ -63,10 +63,10 @@ background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, F
 For in person counseling call Professional Counseling Associates.<br> 29000 Highway 98<br Daphne, Alabama Suite 102A Building A. 36526
           </p>
           <p>
-            <abbr title="Phone">P</abbr>: 251-626-5797
+            <abbr title="Phone">Phone</abbr>: 251-626-5797
           </p>
           <p>
-            <abbr title="Email">E</abbr>:
+            <abbr title="Email">Email:</abbr>:
             <a href="mailto:name@example.com">labyrinthcounseling@gmail.com
             </a>
           </p>
